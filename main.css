@@ -1,0 +1,58 @@
+html {
+    font-size: 12px;
+    text-align: center;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Noto Sans JP", sans-serif;
+    text-align: center;
+}
+
+.list ul,
+li {
+    display: block;
+}
+
+p {
+    line-height: 2rem;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    margin: auto;
+    display: block;
+}
+
+#main {
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.about {
+    margin: auto;
+    padding: 0 12rem 0 12rem;
+    text-align: left;
+    max-width: 1000px;
+}
+.list {
+    text-align: center;
+    font-style: italic;
+}
+
+.paragraph {
+    display: inline-block;
+}
